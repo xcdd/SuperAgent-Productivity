@@ -1,1 +1,2 @@
-由于本项目还没有做first release，请到原项目CONTRIBUTING。
+由于本项目还没有做first release定型，目前请到原项目CONTRIBUTING。
+本项目后续会尽量同步原项目的修改。
